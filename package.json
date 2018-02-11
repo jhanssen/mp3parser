@@ -1,6 +1,6 @@
 {
   "name": "@jhanssen/mp3parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parse mp3 files from a node stream",
   "main": "index.js",
   "directories": {
