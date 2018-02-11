@@ -1,0 +1,18 @@
+{
+  "name": "@jhanssen/mp3parser",
+  "version": "1.0.0",
+  "description": "Parse mp3 files from a node stream",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhanssen/mp3parser.git"
+  },
+  "author": "Jan E Hanssen",
+  "license": "MIT"
+}
